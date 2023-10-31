@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-start; */
+    background-color: rgb(255, 66, 66);
+    color: white;
+    padding: 20px 10px 20px 350px;
+}
+
+.fixedHead{
+    font-size: 13px;
+    padding: 10px 10px 10px 50px;
+}
+
+.fixedHeadNext {
+    font-size: 20px;
+    padding: 10px 10px 10px 100px;
+}
